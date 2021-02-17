@@ -1,11 +1,11 @@
 {
-  "base_url": "/binder/jupyter/user/betjayuk-my-first-binder-hj5n670v/",
+  "base_url": "/binder/jupyter/user/betjayuk-my-first-binder-5w86hrms/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "mtdUjR0wTfO71f-C_lyjQg",
-  "url": "http://0.0.0.0:8888/binder/jupyter/user/betjayuk-my-first-binder-hj5n670v/"
+  "token": "x5PkOFUXR_6_54QaOj4RSw",
+  "url": "http://0.0.0.0:8888/binder/jupyter/user/betjayuk-my-first-binder-5w86hrms/"
 }
